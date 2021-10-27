@@ -131,7 +131,7 @@ class Student extends React.Component {
     //
     //
     // }
-    // 简化语法
+    // 简化语法，
     state = {
         name: 'tom',
         age: 6
