@@ -2,7 +2,7 @@
 // 一个独立的组件
 import React from 'react';
 
-// 举例一个用类创建的组件
+// 举例一个用类创建的组件反对法发
 
 class Good extends React.Component {
     render () {
